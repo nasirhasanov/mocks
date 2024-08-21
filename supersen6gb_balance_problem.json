@@ -1,0 +1,438 @@
+{
+   "status":"OK",
+   "meta":{
+      "key":"success",
+      "message":"Successfully"
+   },
+   "data":{
+      "responseCode":0,
+      "responseDescription":"OK",
+      "balances":[
+         {
+            "id":"supersen",
+            "type":"TARIFF",
+            "name":{
+               "eng":"SuperSen",
+               "az":"SuperSən",
+               "ru":"SuperSen"
+            },
+            "units":{
+               "voiceBalanceItems":{
+                  "items":[
+                     {
+                        "id":"voice_coc_1528",
+                        "name":{
+                           "eng":"SuperSen 6GB",
+                           "az":"SuperSən 6GB",
+                           "ru":"SuperSen 6GB"
+                        },
+                        "description":{
+                           "eng":"SuperSen 6 GB Post-Paid",
+                           "az":"SuperSen 6 GB Post-Paid",
+                           "ru":"SuperSen 6 GB Post-Paid"
+                        },
+                        "network":"LOCAL",
+                        "value":{
+                           "unit":"SEC",
+                           "remaining":5387,
+                           "usage":18612,
+                           "unlimited":false,
+                           "total":24000
+                        },
+                        "source":{
+                           "id":"1528",
+                           "name":"COC"
+                        }
+                     }
+                  ]
+               },
+               "dataBalanceItems":{
+                  "items":[
+                     {
+                        "id":"data_vsme_ext_serbest_post_6gb",
+                        "name":{
+                           "eng":"SuperSen 6 GB",
+                           "az":"SuperSən 6 GB",
+                           "ru":"SuperSen 6 GB"
+                        },
+                        "description":{
+                           "eng":"SuperSen 6 GB",
+                           "az":"SuperSen 6 GB Post-Paid",
+                           "ru":"SuperSen 6 GB Post-Paid"
+                        },
+                        "network":"DATA",
+                        "value":{
+                           "unit":"BYTE",
+                           "remaining":2700516636,
+                           "usage":3741934308,
+                           "unlimited":false,
+                           "total":6442450944
+                        },
+                        "properties":{
+                           "lastRenewDate":"2024-08-05 00:00:00",
+                           "quotaResetDate":"2024-09-05 00:00:00",
+                           "subscriptionRecurrenceStatus":"ACTIVE",
+                           "subscriptionId":"post_06c8bc69-0695-4587-81d3-299d7464edfc",
+                           "recurrenceType":"MONTHLY",
+                           "startDate":"2024-06-05 00:00:00",
+                           "expirationDate":"2024-09-05 00:00:00"
+                        },
+                        "source":{
+                           "id":"ext_serbest_post_6gb",
+                           "name":"VSME"
+                        }
+                     }
+                  ]
+               }
+            }
+         },
+         {
+            "id":"additional_balance",
+            "type":"ADDITIONAL",
+            "name":{
+               "eng":"Additional balance",
+               "az":"Əlavə balans",
+               "ru":"Дополнительный баланс"
+            },
+            "units":{
+               "dataBalanceItems":{
+                  "items":[
+                     {
+                        "id":"data_vsme_ext_serbest_fbwp_post_data_5310",
+                        "name":{
+                           "eng":"Pack for chatting",
+                           "az":"Yazışma üçün paket",
+                           "ru":"Пакет для переписок"
+                        },
+                        "description":{
+                           "eng":"Pack for chatting",
+                           "az":"Yazışma üçün paket",
+                           "ru":"Yazışma üçün paket"
+                        },
+                        "network":"DATA",
+                        "value":{
+                           "unit":"BYTE",
+                           "remaining":1050173759,
+                           "usage":23568065,
+                           "unlimited":false,
+                           "total":1073741824
+                        },
+                        "properties":{
+                           "lastRenewDate":"2024-08-06 00:00:50",
+                           "quotaResetDate":"2024-09-06 00:00:50",
+                           "subscriptionRecurrenceStatus":"ACTIVE",
+                           "subscriptionId":"post_b5273a17-173f-42fe-8141-739e3a0cef26",
+                           "recurrenceType":"MONTHLY",
+                           "startDate":"2024-02-06 00:00:50",
+                           "expirationDate":"2024-09-06 00:00:50"
+                        },
+                        "structs":{
+                           "voicebot_notplay":"true"
+                        },
+                        "source":{
+                           "id":"ext_serbest_fbwp_post/data_5310",
+                           "name":"VSME"
+                        }
+                     }
+                  ]
+               }
+            }
+         },
+         {
+            "id":"main_balance",
+            "type":"MAIN",
+            "name":{
+               "eng":"Main balance",
+               "az":"Əsas tarif balansi",
+               "ru":"Основной баланс"
+            },
+            "units":{
+               "monetaryBalanceItems":{
+                  "items":[
+                     {
+                        "id":"main_bscs_advance",
+                        "name":{
+                           "eng":"Advance",
+                           "az":"Avans",
+                           "ru":"Аванс"
+                        },
+                        "description":{
+                           "eng":"Avans",
+                           "az":"Avans",
+                           "ru":"Avans"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":23.11,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"advance",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_court_fee",
+                        "name":{
+                           "eng":"Court fee",
+                           "az":"Dövlət rüsumu",
+                           "ru":"ГОС пошлина"
+                        },
+                        "description":{
+                           "eng":"Dövlət rüsumu",
+                           "az":"Dövlət rüsumu",
+                           "ru":"Dövlət rüsumu"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":0,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"court_fee",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_credit_limit",
+                        "name":{
+                           "eng":"Credit limit",
+                           "az":"Kredit limiti",
+                           "ru":"Кредит лимит"
+                        },
+                        "description":{
+                           "eng":"Kredit limiti",
+                           "az":"Kredit limiti",
+                           "ru":"Kredit limiti"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":30,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"credit_limit",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_deposite",
+                        "name":{
+                           "eng":"Deposit",
+                           "az":"Depozit",
+                           "ru":"Депозит"
+                        },
+                        "description":{
+                           "eng":"Depozit",
+                           "az":"Depozit",
+                           "ru":"Depozit"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":0,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"deposit",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_fees",
+                        "name":{
+                           "eng":"Fees",
+                           "az":"Əlavə ödəniş",
+                           "ru":"Дополнительная оплата"
+                        },
+                        "description":{
+                           "eng":"Əlavə ödəniş",
+                           "az":"Əlavə ödəniş",
+                           "ru":"Əlavə ödəniş"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":0,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"fees",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_invoice_debt",
+                        "name":{
+                           "eng":"Invoice debt",
+                           "az":"Faktura borcu",
+                           "ru":"Фактурный долг"
+                        },
+                        "description":{
+                           "eng":"Faktura borcu",
+                           "az":"Faktura borcu",
+                           "ru":"Faktura borcu"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":0,
+                           "unlimited":false
+                        },
+                        "properties":{
+                           "lastInvoiceDate":"2024-08-05 00:00:00",
+                           "unpaidInvoiceCount":"0"
+                        },
+                        "source":{
+                           "id":"invoice_debt",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_late_fee",
+                        "name":{
+                           "eng":"Late fee",
+                           "az":"Gecikmə faiz məbləği",
+                           "ru":"Процент опоздания"
+                        },
+                        "description":{
+                           "eng":"Gecikmə faiz məbləği",
+                           "az":"Gecikmə faiz məbləği",
+                           "ru":"Gecikmə faiz məbləği"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":0,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"late_fee",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_monthly_fee",
+                        "name":{
+                           "eng":"Monthly fee",
+                           "az":"Aylıq abunə haqqı",
+                           "ru":"Абонентская плата"
+                        },
+                        "description":{
+                           "eng":"Aylıq abunə haqqı",
+                           "az":"Aylıq abunə haqqı",
+                           "ru":"Aylıq abunə haqqı"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":12.711865,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"monthly_fee",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_overlimit",
+                        "name":{
+                           "eng":"Over Limit",
+                           "az":"Limitin keçməsi",
+                           "ru":"Превышение лимита"
+                        },
+                        "description":{
+                           "eng":"Limitin keçməsi",
+                           "az":"Limitin keçməsi",
+                           "ru":"Limitin keçməsi"
+                        },
+                        "network":"ALL",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":0,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"overlimit",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_remaining_limit",
+                        "name":{
+                           "eng":"Remaining limit",
+                           "az":"Qalıq limit",
+                           "ru":"Остаток лимита"
+                        },
+                        "description":{
+                           "eng":"Qalıq limit",
+                           "az":"Qalıq limit",
+                           "ru":"Qalıq limit"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":38.09,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"remaining_limit",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_sfr_debt",
+                        "name":{
+                           "eng":"SFR Debt",
+                           "az":"Xəttin açılması üçün minimal məbləğ",
+                           "ru":"SFR Debt"
+                        },
+                        "description":{
+                           "eng":"Xəttin açılması üçün minimal məbləğ",
+                           "az":"Xəttin açılması üçün minimal məbləğ",
+                           "ru":"Xəttin açılması üçün minimal məbləğ"
+                        },
+                        "network":"ALL",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":0,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"sfr_debt",
+                           "name":"BSCS"
+                        }
+                     },
+                     {
+                        "id":"main_bscs_total_unbill",
+                        "name":{
+                           "eng":"Total unbill",
+                           "az":"Hazırki istifadə",
+                           "ru":"Сумма текущих разговоров"
+                        },
+                        "description":{
+                           "eng":"Hazırki istifadə",
+                           "az":"Hazırki istifadə",
+                           "ru":"Hazırki istifadə"
+                        },
+                        "network":"ONNET",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":15.02,
+                           "unlimited":false
+                        },
+                        "source":{
+                           "id":"total_unbill",
+                           "name":"BSCS"
+                        }
+                     }
+                  ]
+               }
+            }
+         }
+      ]
+   }
+}
