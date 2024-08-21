@@ -34,8 +34,8 @@
                         "network":"LOCAL",
                         "value":{
                            "unit":"SEC",
-                           "remaining":5387.301,
-                           "usage":18612.698,
+                           "remaining":5387,
+                           "usage":18612,
                            "unlimited":false,
                            "total":24000
                         },
