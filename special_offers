@@ -1,0 +1,229 @@
+{
+   "status":"OK",
+   "meta":{
+      "key":"success",
+      "message":"Successfully"
+   },
+   "data":{
+      "campaigns":[
+         {
+            "id":1,
+            "name":{
+               "az":"Azercellim.com kampaniyası",
+               "en":"Azercellim.com campaign",
+               "ru":"Кампания Azercellim.com"
+            },
+            "imageUrl":"https://cdn.azercell.com/kabinetim/campaigns/azercellim/image.png"
+         },
+         {
+            "id":6,
+            "name":{
+               "az":"Umico kampaniyası",
+               "en":"Umico campaign",
+               "ru":"Кампания Umico"
+            },
+            "imageUrl":"https://cdn.azercell.com/kabinetim/campaigns/umico/image.png"
+         }
+      ],
+      "offers":[
+         {
+            "segmentId":10590,
+            "productOfferingName":"Supersen endirim/SS3",
+            "description":{
+               "type":"DISCOUNT",
+               "labelKey":"from lokalise with dynamic parameter",
+               "title":{
+                  "az":"Monthly 55 GB",
+                  "en":"Monthly 55 GB",
+                  "ru":"Monthly 55 GB"
+               },
+               "image":{
+                  "list":"image url 1",
+                  "details":"image url 2"
+               },
+               "info":{
+                  "subTitleKey":"from lokalise",
+                  "icon":"icon_name"
+               },
+               "actualPrice":"25",
+               "faqType":"predefined"
+            },
+            "offer":{
+               "id":"10602",
+               "productOfferingId":"Supersen3gb_30%",
+               "canBeSubscribed":true,
+               "price":{
+                  "taxIncludedAmount":"5.0",
+                  "currencyCode":"AZN"
+               },
+               "validityPeriod":{
+                  "start":"2024-05-26T04:25:00",
+                  "end":"2024-10-31T18:25:00"
+               }
+            }
+         },
+         {
+            "segmentId":10590,
+            "productOfferingName":"p50 50% 6m",
+            "description":{
+               "type":"ANNIVERSARY",
+               "labelKey":"from lokalise",
+               "title":{
+                  "az":"Subscribe to get",
+                  "en":"Subscribe to get",
+                  "ru":"Subscribe to get"
+               },
+               "image":{
+                  "list":"image url 1",
+                  "details":"image url 2"
+               },
+               "info":{
+                  "subTitleKey":"from lokalise",
+                  "title":{
+                     "az":"1 GB extradata",
+                     "en":"1 GB extradata",
+                     "ru":"1 GB extradata"
+                  },
+                  "icon":"icon_name"
+               },
+               "validityPeriod":72,
+               "messageKey":"from lokalise"
+            },
+            "offer":{
+               "id":"10607",
+               "productOfferingId":"P50_50%_6M",
+               "canBeSubscribed":true,
+               "price":{
+                  "taxIncludedAmount":"29.5",
+                  "currencyCode":"AZN"
+               },
+               "validityPeriod":{
+                  "start":"2024-10-21T14:40:00",
+                  "end":"2024-10-21T15:40:00"
+               }
+            }
+         },
+         {
+            "segmentId":10590,
+            "productOfferingName":"55gb_discount/vcc_subs_monthly_unlimited",
+            "description":{
+               "type":"BIRTHDAY",
+               "labelKey":"from lokalise",
+               "title":{
+                  "az":"Subscribe to get",
+                  "en":"Subscribe to get",
+                  "ru":"Subscribe to get"
+               },
+               "image":{
+                  "list":"image url 1",
+                  "details":"image url 2"
+               },
+               "info":{
+                  "subTitleKey":"from lokalise",
+                  "title":{
+                     "az":"1 GB extradata",
+                     "en":"1 GB extradata",
+                     "ru":"1 GB extradata"
+                  },
+                  "icon":"icon_name"
+               },
+               "validityPeriod":24,
+               "messageKey":"from lokalise"
+            },
+            "offer":{
+               "id":"10591",
+               "productOfferingId":"55gb_30%discount",
+               "canBeSubscribed":true,
+               "price":{
+                  "taxIncludedAmount":"23.4",
+                  "currencyCode":"AZN"
+               },
+               "validityPeriod":{
+                  "start":"2024-10-16T01:54:00",
+                  "end":"2024-10-31T17:54:00"
+               }
+            }
+         },
+         {
+            "segmentId":10590,
+            "productOfferingName":"Refill X get X",
+            "description":{
+               "type":"TOPUP",
+               "labelKey":"from lokalise",
+               "title":{
+                  "az":"Top up your balance",
+                  "en":"Top up your balance",
+                  "ru":"Top up your balance"
+               },
+               "image":{
+                  "list":"image url 1",
+                  "details":"image url 2"
+               },
+               "info":{
+                  "subTitleKey":"from lokalise",
+                  "title":{
+                     "az":"Top up 5 and get 1",
+                     "en":"Top up 5 and get 1",
+                     "ru":"Top up 5 and get 1"
+                  },
+                  "icon":"icon_name"
+               },
+               "action":"/topup"
+            },
+            "offer":{
+               "id":"10603",
+               "productOfferingId":"refil_x_get_x",
+               "canBeSubscribed":true,
+               "price":{
+                  "taxIncludedAmount":"0.0",
+                  "currencyCode":"AZN"
+               },
+               "validityPeriod":{
+                  "start":"2024-10-16T17:13:00",
+                  "end":"2024-10-31T18:13:00"
+               }
+            }
+         },
+         {
+            "segmentId":10590,
+            "productOfferingName":"6gb_50%_6m",
+            "description":{
+               "type":"BONUS",
+               "labelKey":"from lokalise",
+               "title":{
+                  "az":"Subscribe to get",
+                  "en":"Subscribe to get",
+                  "ru":"Subscribe to get"
+               },
+               "image":{
+                  "list":"image url 1",
+                  "details":"image url 2"
+               },
+               "info":{
+                  "subTitleKey":"from lokalise",
+                  "title":{
+                     "az":"1 GB extradata",
+                     "en":"1 GB extradata",
+                     "ru":"1 GB extradata"
+                  },
+                  "icon":"icon_name"
+               },
+               "faqType":"predefined"
+            },
+            "offer":{
+               "id":"10616",
+               "productOfferingId":"6gb_50%_6m",
+               "canBeSubscribed":true,
+               "price":{
+                  "taxIncludedAmount":"6.0",
+                  "currencyCode":"AZN"
+               },
+               "validityPeriod":{
+                  "start":"2024-10-21T15:06:00",
+                  "end":"2024-10-31T16:06:00"
+               }
+            }
+         }
+      ]
+   }
+}
