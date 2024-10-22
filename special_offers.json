@@ -38,8 +38,8 @@
                   "ru":"Monthly 55 GB"
                },
                "image":{
-                  "list":"image url 1",
-                  "details":"image url 2"
+                  "list":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift-card.png",
+                  "details":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift.png"
                },
                "info":{
                   "subTitleKey":"from lokalise",
@@ -74,8 +74,8 @@
                   "ru":"Subscribe to get"
                },
                "image":{
-                  "list":"image url 1",
-                  "details":"image url 2"
+                  "list":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift-card.png",
+                  "details":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift.png"
                },
                "info":{
                   "subTitleKey":"from lokalise",
@@ -115,8 +115,8 @@
                   "ru":"Subscribe to get"
                },
                "image":{
-                  "list":"image url 1",
-                  "details":"image url 2"
+                  "list":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift-card.png",
+                  "details":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift.png"
                },
                "info":{
                   "subTitleKey":"from lokalise",
@@ -156,8 +156,8 @@
                   "ru":"Top up your balance"
                },
                "image":{
-                  "list":"image url 1",
-                  "details":"image url 2"
+                  "list":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift-card.png",
+                  "details":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift.png"
                },
                "info":{
                   "subTitleKey":"from lokalise",
@@ -196,8 +196,8 @@
                   "ru":"Subscribe to get"
                },
                "image":{
-                  "list":"image url 1",
-                  "details":"image url 2"
+                  "list":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift-card.png",
+                  "details":"https://cdn.azercell.com/kabinetim/campaigns/offers/gift.png"
                },
                "info":{
                   "subTitleKey":"from lokalise",
