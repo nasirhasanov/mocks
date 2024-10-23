@@ -45,6 +45,10 @@
                   "subTitleKey":"from lokalise",
                   "icon":"icon_name"
                },
+               "button":{
+                  "list":"Activate",
+                  "details":"Activate"
+               },
                "actualPrice":"25",
                "faqType":"predefined"
             },
@@ -86,6 +90,10 @@
                   },
                   "icon":"icon_name"
                },
+               "button":{
+                  "list":"Activate",
+                  "details":"Activate"
+               },
                "validityPeriod":72,
                "messageKey":"from lokalise"
             },
@@ -126,6 +134,10 @@
                      "ru":"1 GB extradata"
                   },
                   "icon":"icon_name"
+               },
+               "button":{
+                  "list":"Activate",
+                  "details":"Activate"
                },
                "validityPeriod":24,
                "messageKey":"from lokalise"
@@ -169,6 +181,10 @@
                   "icon":"icon_name"
                },
                "action":"/topup"
+               "button":{
+                  "list":"Activate",
+                  "details":"Activate"
+               },
             },
             "offer":{
                "id":"10603",
@@ -207,6 +223,10 @@
                      "ru":"1 GB extradata"
                   },
                   "icon":"icon_name"
+               },
+               "button":{
+                  "list":"Activate",
+                  "details":"Activate"
                },
                "faqType":"predefined"
             },
