@@ -180,7 +180,7 @@
                   },
                   "icon":"icon_name"
                },
-               "action":"/topup"
+               "action":"/topup",
                "button":{
                   "list":"Activate",
                   "details":"Activate"
