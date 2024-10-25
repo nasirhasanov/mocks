@@ -31,7 +31,7 @@
             "productOfferingName":"Supersen endirim/SS3",
             "description":{
                "type":"DISCOUNT",
-               "labelKey":"telco_save_x",
+               "labelKey":"telco_save_X",
                "title":{
                   "az":"Monthly 55 GB Internet is just for 25₼!",
                   "en":"Monthly 55 GB Internet is just for 25₼!",
@@ -203,7 +203,7 @@
             "productOfferingName":"6gb_50%_6m",
             "description":{
                "type":"DISCOUNT",
-               "labelKey":"telco_save_x",
+               "labelKey":"telco_save_X",
                "title":{
                   "az":"50% discount for SuperSən 10GB for 1 month",
                   "en":"50% discount for SuperSən 10GB for 1 month",
