@@ -1,0 +1,11 @@
+{
+  "status": "OK",
+  "meta": {
+    "key": "success",
+    "message": "Successfully"
+  },
+  "data": [
+    "PARTIAL_PAYMENT",
+    "ADVANCE_PAYMENT",
+  ]
+}
