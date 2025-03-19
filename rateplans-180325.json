@@ -31,9 +31,10 @@
         "sloganRu": "SuperSen выбери свой тариф!",
         "listIcon": "tariff-like",
         "titleLabel": "new",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 22,
@@ -67,9 +68,10 @@
         "topPriority": "3",
         "listIcon": "tariff-like",
         "titleLabel": "new",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 23,
@@ -103,9 +105,10 @@
         "topPriority": "2",
         "listIcon": "tariff-like",
         "titleLabel": "new",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 24,
@@ -137,9 +140,10 @@
         "sloganRu": "SuperSen выбери свой тариф!",
         "listIcon": "tariff-like",
         "titleLabel": "new",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 25,
@@ -171,9 +175,10 @@
         "sloganRu": "SuperSen выбери свой тариф!",
         "listIcon": "tariff-like",
         "titleLabel": "new",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 26,
@@ -208,9 +213,10 @@
         "topPriority": "1",
         "listIcon": "az-premium",
         "titleLabel": "new",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 27,
@@ -244,9 +250,10 @@
         "sloganRu": "Выбирай превосходство!",
         "listIcon": "az-premium",
         "titleLabel": "new",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 28,
@@ -280,9 +287,10 @@
         "sloganRu": "Выбирай превосходство!",
         "listIcon": "az-premium",
         "titleLabel": "new",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 7,
@@ -293,7 +301,7 @@
         "slogan": "Şəbəkədaxili ən sərfəli tarif",
         "type": "sade",
         "onnetMinutes": 500,
-        "onnetSmsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
         "allnetMinutesPrice": 0.06,
         "mbPrice": 0.2,
         "onnetMinutesPriceUnpaid": 0.06,
@@ -310,8 +318,9 @@
         "sloganAz": "Şəbəkədaxili ən sərfəli tarif",
         "sloganEn": "The best tariff for on-net calls",
         "sloganRu": "Лучший тариф для звонков в сети",
-        "offnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 8,
@@ -343,9 +352,10 @@
         "sloganAz": "Gəncliyin dadını çıxar!",
         "sloganEn": "Enjoy your youth!",
         "sloganRu": "Наслаждайся молодостью!",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 9,
@@ -378,9 +388,10 @@
         "sloganAz": "Gəncliyin dadını çıxar!",
         "sloganEn": "Enjoy your youth!",
         "sloganRu": "Наслаждайся молодостью!",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 18,
@@ -412,9 +423,10 @@
         "sloganAz": "Gəncliyin dadını çıxar!",
         "sloganEn": "Enjoy your youth!",
         "sloganRu": "Наслаждайся молодостью!",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 37,
@@ -432,7 +444,6 @@
         "tariffPrice": 2,
         "transitionPrice": 4,
         "daysLimit": 30,
-        "additionalInfo": "Hesablanma intervalı: zənglər üçün 1 dəqiqə, internet üçün isə 512KB təşkil edir",
         "infoUrl": "https://www.azercell.com/#locale/personal/plans-and-services/mobile-tariffs/prepaid/azercellim.html",
         "renewable": 1,
         "isBundle": 1,
@@ -444,9 +455,10 @@
         "additionalInfoAz": "Hesablanma intervalı: zənglər üçün 1 dəqiqə, internet üçün isə 512KB təşkil edir",
         "additionalInfoEn": "Charging interval: 1 minute for calls and 512KB for internet",
         "additionalInfoRu": "Интервал тарификации: 1 минута для звонков и 512КБ для интернета",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 38,
@@ -464,7 +476,6 @@
         "tariffPrice": 2,
         "transitionPrice": 4,
         "daysLimit": 30,
-        "additionalInfo": "Hesablanma intervalı: zənglər üçün 1 dəqiqə, internet üçün isə 512KB təşkil edir. Şəbəkədaxili zənglər 3-cü dəqiqədən sonra bölgələrdə pulsuzdur. Hər bir pulsuz şəbəkədaxili zəngin müddəti 20 dəqiqə təşkil edir.",
         "infoUrl": "https://www.azercell.com/#locale/personal/plans-and-services/mobile-tariffs/prepaid/bolge.html",
         "renewable": 1,
         "isBundle": 1,
@@ -476,9 +487,10 @@
         "additionalInfoAz": "Hesablanma intervalı: zənglər üçün 1 dəqiqə, internet üçün isə 512KB təşkil edir. Şəbəkədaxili zənglər 3-cü dəqiqədən sonra bölgələrdə pulsuzdur. Hər bir pulsuz şəbəkədaxili zəngin müddəti 20 dəqiqə təşkil edir.",
         "additionalInfoEn": "Charging interval: 1 minute for calls and 512KB for internet. On-net calls are free after 3 minutes in regions. The duration of each free on-net call is 20 minutes.",
         "additionalInfoRu": "Интервал тарификации: 1 минута для звонков и 512КБ для интернета. Звонки внутри сети бесплатны через 3 минуты в регионах. Продолжительность каждого бесплатного звонка внутри сети составляет 20 минут.",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       },
       {
         "id": 39,
@@ -496,7 +508,6 @@
         "tariffPrice": 2,
         "transitionPrice": 4,
         "daysLimit": 30,
-        "additionalInfo": "Hesablanma intervalı: zənglər üçün 1 dəqiqə, internet üçün isə 512KB təşkil edir. Şəbəkədaxili zənglər 3-cü dəqiqədən sonra pulsuzdur. Hər bir pulsuz şəbəkədaxili zəngin müddəti 40 dəqiqə təşkil edir.",
         "infoUrl": "https://www.azercell.com/#locale/personal/plans-and-services/mobile-tariffs/prepaid/gencsim.html",
         "renewable": 1,
         "isBundle": 1,
@@ -508,9 +519,10 @@
         "additionalInfoAz": "Hesablanma intervalı: zənglər üçün 1 dəqiqə, internet üçün isə 512KB təşkil edir. Şəbəkədaxili zənglər 3-cü dəqiqədən sonra pulsuzdur. Hər bir pulsuz şəbəkədaxili zəngin müddəti 40 dəqiqə təşkil edir.",
         "additionalInfoEn": "Charging interval: 1 minute for calls and 512KB for internet. On-net calls are free after 3 minutes.The duration of each free on-net call is 40 minutes.",
         "additionalInfoRu": "Интервал тарификации: 1 минута для звонков и 512КБ для интернета. Звонки внутри сети бесплатны через 3 минуты. Продолжительность каждого бесплатного звонка внутри сети составляет 40 минут.",
-        "offnetSmsPrice": 0.1,
-        "onnetSmsPrice": 0.1,
-        "internationalSmsPrice": 0.25
+        "smsPrice": 0.1,
+        "smsPriceUnpaid": 0.1,
+        "internationalSmsPrice": 0.25,
+        "internationalSmsPriceUnpaid": 0.25
       }
     ]
   }
