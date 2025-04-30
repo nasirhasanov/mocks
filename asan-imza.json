@@ -1,16 +1,7 @@
 {
-  "status": "OK",
+  "status": "NOT_FOUND",
   "meta": {
-    "key": "success",
+    "key": "not_found",
     "message": "Successfully"
   },
-  "data": {
-    "name": "Nasir",
-    "surname": "Hasanov",
-    "type": "FREE_CITIZEN",
-    "activationDate": "2025-02-19T06:09:54.333Z",
-    "expirationDate": "2025-02-19T06:09:54.333Z",
-    "simStatus": "OPEN",
-    "subscriptionStatus": "ACTIVE"
-  }
 }
