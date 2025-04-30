@@ -1,7 +1,7 @@
 {
-  "status": "NOT_FOUND",
+  "status": "OK",
   "meta": {
-    "key": "not_found",
+    "key": "success",
     "message": "Successfully"
   },
     "data": {
@@ -11,6 +11,6 @@
     "activationDate": "2025-02-19T06:09:54.333Z",
     "expirationDate": "2025-02-19T06:09:54.333Z",
     "simStatus": "OPEN",
-    "subscriptionStatus": "ACTIVE"
+    "subscriptionStatus": "SUSPENDED"
   }
 }
