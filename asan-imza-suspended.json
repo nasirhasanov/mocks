@@ -1,19 +1,7 @@
 {
-   "status":"OK",
-   "meta":{
-      "key":"success",
-      "message":"Successfully"
-   },
-   "data":{
-      "name":"Səid",
-      "surname":"Bayramov",
-      "simType":"BUSINESS_SIM",
-      "activationDate":"2024-06-21T07:11:34Z",
-      "expirationDate":"2027-06-21T07:11:34Z",
-      "lastPaymentDate":"2025-05-26T03:00:42Z",
-      "subscriptionStatus":"INACTIVE",
-      "certificateStatus":"INACTIVE",
-      "validityPeriod":1095,
-      "serviceFee":250
-   }
+  "status": "INTERNAL_SERVER_ERROR",
+  "meta": {
+    "key": "unexpected",
+    "message": "Unexpected error"
+  }
 }
