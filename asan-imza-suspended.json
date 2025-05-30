@@ -1,7 +1,7 @@
 {
-  "status": "INTERNAL_SERVER_ERROR",
+  "status": "NOT_FOUND",
   "meta": {
-    "key": "unexpected",
-    "message": "Unexpected error"
+    "key": "no_asan_imza_found",
+    "message": "Unknown phone number: +994111111111"
   }
 }
