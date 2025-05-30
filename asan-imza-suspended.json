@@ -12,7 +12,7 @@
       "expirationDate":"2027-06-21T07:11:34Z",
       "lastPaymentDate":"2025-05-26T03:00:42Z",
       "subscriptionStatus":"INACTIVE",
-      "subscriptionStatus":"ACTIVE",
+      "subscriptionStatus":"INACTIVE",
       "certificateStatus":"ACTIVE",
       "validityPeriod":1095,
       "serviceFee":250
