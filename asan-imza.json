@@ -1,16 +1,1 @@
-{
-  "status": "OK",
-  "meta": {
-    "key": "success",
-    "message": "Successfully"
-  },
-    "data": {
-    "name": "Nasir",
-    "surname": "Hasanov",
-    "type": "BUSINESS",
-    "activationDate": "2025-02-19T06:09:54.333Z",
-    "expirationDate": "2025-02-19T06:09:54.333Z",
-    "simStatus": "OPEN",
-    "subscriptionStatus": "SUSPENDED"
-  }
-}
+{}
