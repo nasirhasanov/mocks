@@ -53,7 +53,6 @@
                         },
                         "actions":{
                            "delete":"unsubs_ext_b2c_mip_370",
-                           "renew":"subs_ext_b2c_mip_370",
                            "stopRenew":"vcc_stoprenewal_ext_b2c_mip_370"
                         }
                      }
