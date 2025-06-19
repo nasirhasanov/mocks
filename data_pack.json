@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "meta":{
+      "key":"success",
+      "message":"Successfully"
+   },
+   "data":{
+      "responseCode":0,
+      "responseDescription":"OK",
+      "balances":[
+         {
+            "id":"mip",
+            "type":"MIP",
+            "name":{
+               "eng":"Mobile Internet Pack",
+               "az":"Mobil Internet Paketi",
+               "ru":"Пакет мобильного интернета"
+            },
+            "units":{
+               "dataBalanceItems":{
+                  "items":[
+                     {
+                        "id":"ext_b2c_mip_370",
+                        "name":{
+                           "eng":"Daily 250MB",
+                           "az":"Günlük 250MB",
+                           "ru":"Дневной 250MB"
+                        },
+                        "description":{
+                           "eng":"Daily 250MB",
+                           "az":"Günlük 250MB",
+                           "ru":"Дневной 250MB"
+                        },
+                        "network":"DATA",
+                        "value":{
+                           "unit":"BYTE",
+                           "remaining":0,
+                           "usage":0,
+                           "unlimited":false,
+                           "total":262144000
+                        },
+                        "properties":{
+                           "lastRenewDate":"2025-04-25 14:20:51",
+                           "subscriptionRecurrenceStatus":"SUSPENDED",
+                           "quotaResetDate":"2025-04-26 14:20:51",
+                           "subscriptionId":"pre_8c818e72-2886-46c4-ab89-30a77fcb7cec",
+                           "recurrenceType":"DAILY",
+                           "startDate":"2025-04-25 14:20:51"
+                        },
+                        "source":{
+                           "id":"ext_b2c_mip_370",
+                           "name":"VSME"
+                        },
+                        "actions":{
+                           "delete":"unsubs_ext_b2c_mip_370",
+                           "renew":"subs_ext_b2c_mip_370",
+                           "stopRenew":"vcc_stoprenewal_ext_b2c_mip_370"
+                        }
+                     }
+                  ]
+               }
+            }
+         },
+         {
+            "id":"main_balance",
+            "type":"MAIN",
+            "name":{
+               "eng":"Main balance",
+               "az":"Əsas tarif balansi",
+               "ru":"Основной баланс"
+            },
+            "units":{
+               "monetaryBalanceItems":{
+                  "items":[
+                     {
+                        "id":"prepaid_main_balance",
+                        "name":{
+                           "eng":"Prepaid Main balance",
+                           "az":"Əsas balans",
+                           "ru":"Основной баланс"
+                        },
+                        "description":{
+                           "eng":"Əsas balans",
+                           "az":"Əsas balans",
+                           "ru":"Əsas balans"
+                        },
+                        "network":"ALL",
+                        "value":{
+                           "unit":"AZN",
+                           "remaining":0.08,
+                           "unlimited":false
+                        },
+                        "properties":{
+                           "serviceFeeExpiryDate":"2025-05-25 00:00:00",
+                           "creditClearanceDate":"2025-08-23 00:00:00"
+                        },
+                        "source":{
+                           "id":"prepaid_main_balance",
+                           "name":"MA"
+                        }
+                     }
+                  ]
+               }
+            }
+         }
+      ]
+   }
+}
