@@ -285,7 +285,7 @@
             "provisioned_by":"VSME",
             "subs_command":"vcc_subs_weekly_5gb",
             "unsubs_command":"vcc_unsubs_weekly_5gb",
-            "category":"monthly2",
+            "category":"weekly",
             "freeDigitals":"whatsapp",
             "topPack":0,
             "packSize":6144,
