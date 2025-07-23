@@ -1,0 +1,12 @@
+[ {
+  "history_id" : 51985269,
+  "title" : "Great news for \"Premium\" tariff subscribers!",
+  "body" : "Enjoy 6 months of free Wolt+ subscription and benefit from free deliveries, discounts and more.",
+  "image_url" : null,
+  "date_sent" : "2025-07-23T10:32:08+04:00",
+  "route" : "{\"page\":\"/woltPlusDetails\",\"action\":\"OK\"}",
+  "is_read" : true,
+  "label" : null,
+  "importance" : "LOW",
+  "space" : "KABINETIM"
+} ]
