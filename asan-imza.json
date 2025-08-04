@@ -1,7 +1,18 @@
 {
-   "status":"OK",
-   "meta":{
-      "key":"unexpected",
-      "message":"Successfully"
-   }
+  "status": "OK",
+  "meta": {
+    "key": "success",
+    "message": "Successfully"
+  },
+  "data": {
+    "expirationDate": "2028-07-02T15:23:25",
+    "subscriptionStatus": "ACTIVE",
+    "serviceFee": 2.5,
+    "simType": "BUSINESS_SIM",
+    "surname": "Məmmədzadə",
+    "certificateStatus": "ACTIVE",
+    "validityPeriod": 3,
+    "name": "Əlibəy",
+    "activationDate": "2025-07-02T15:23:25"
+  }
 }
