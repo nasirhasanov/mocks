@@ -1,0 +1,33 @@
+{
+   "status":200,
+   "result":[
+      {
+         "msisdn":"502619536",
+         "childAccountName":null,
+         "tacInfo":null
+      },
+      {
+         "msisdn":"512052947",
+         "childAccountName":null,
+         "tacInfo":{
+            "htmlUrl":"https://kabinetim.azercell.com/my/assets/agreement/v3/agreement_en.html",
+            "jsonUrl":"https://kabinetim.azercell.com/my/assets/agreement/v3/agreement_en.json",
+            "version":3
+         }
+      },
+      {
+         "msisdn":"515549946",
+         "childAccountName":null,
+         "tacInfo":null
+      },
+      {
+         "msisdn":"516794562",
+         "childAccountName":null,
+         "tacInfo":{
+            "htmlUrl":"https://kabinetim.azercell.com/my/assets/agreement/v3/agreement_en.html",
+            "jsonUrl":"https://kabinetim.azercell.com/my/assets/agreement/v3/agreement_en.json",
+            "version":3
+         }
+      }
+   ]
+}
