@@ -1,0 +1,231 @@
+{
+	"status": "OK",
+	"meta": {
+		"key": "success",
+		"message": "Successfully"
+	},
+	"data": {
+		"responseCode": 0,
+		"responseDescription": "OK",
+		"balances": [{
+			"id": "digimax_25gb",
+			"type": "TARIFF",
+			"name": {
+				"eng": "DigiMax 25GB",
+				"az": "DigiMax 25GB",
+				"ru": "DigiMax 25ГБ"
+			},
+			"units": {
+				"voiceBalanceItems": {
+					"items": [{
+						"id": "voice_da_471_offer_672",
+						"name": {
+							"eng": "DigiMax 25GB VOICE",
+							"az": "DigiMax 25GB VOICE",
+							"ru": "DigiMax 25GB VOICE"
+						},
+						"description": {
+							"eng": "DigiMax 25GB VOICE",
+							"az": "DigiMax 25GB VOICE",
+							"ru": "DigiMax 25GB VOICE"
+						},
+						"network": "LOCAL",
+						"value": {
+							"unit": "SEC",
+							"remaining": 90000,
+							"usage": 0,
+							"unlimited": false,
+							"total": 90000
+						},
+						"properties": {
+							"startDate": "2025-08-04 00:00:00",
+							"expirationDate": "2025-09-19 00:00:00"
+						},
+						"source": {
+							"id": "471?offer=672",
+							"name": "DA"
+						}
+					}]
+				},
+				"dataBalanceItems": {
+					"items": [{
+						"id": "data_vsme_ext_digimax_25g",
+						"name": {
+							"eng": "DigiMax 25GB MAIN PACK",
+							"az": "DigiMax 25GB MAIN PACK",
+							"ru": "DigiMax 25GB MAIN PACK"
+						},
+						"description": {
+							"eng": "DigiMax 25GB MAIN PACK",
+							"az": "DigiMax 25GB MAIN PACK",
+							"ru": "DigiMax 25GB MAIN PACK"
+						},
+						"network": "DATA",
+						"value": {
+							"unit": "BYTE",
+							"remaining": 26843545600,
+							"usage": 0,
+							"unlimited": false,
+							"total": 26843545600
+						},
+						"properties": {
+							"lastRenewDate": "2025-08-21 11:20:03",
+							"quotaResetDate": "2025-09-19 00:00:00",
+							"subscriptionRecurrenceStatus": "ACTIVE",
+							"subscriptionId": "pre_ad6e1191-c279-4da4-94bc-cb3ae0b3e093",
+							"recurrenceType": "MONTHLY",
+							"startDate": "2025-08-04 14:34:08",
+							"expirationDate": "2025-09-19 00:00:00"
+						},
+						"source": {
+							"id": "ext_digimax_25gb",
+							"name": "VSME"
+						}
+					}, {
+						"id": "data_vsme_ext_digimax_25gb_media",
+						"name": {
+							"eng": "Social media",
+							"az": "Sosial şəbəkələr",
+							"ru": "Социальные сети"
+						},
+						"description": {
+							"eng": "Social media",
+							"az": "Sosial şəbəkələr",
+							"ru": "Социальные сети"
+						},
+						"network": "SOCIAL_MEDIA",
+						"value": {
+							"unit": "BYTE",
+							"remaining": 3221225472,
+							"usage": 0,
+							"unlimited": false,
+							"total": 3221225472
+						},
+						"properties": {
+							"lastRenewDate": "2025-08-21 11:21:07",
+							"quotaResetDate": "2025-09-18 11:21:07",
+							"subscriptionRecurrenceStatus": "ACTIVE",
+							"subscriptionId": "pre_d811ef06-6ea4-4c3e-a827-c84506587cca",
+							"recurrenceType": "MONTHLY",
+							"startDate": "2025-08-21 11:21:07",
+							"expirationDate": "2025-09-18 11:21:07"
+						},
+						"structs": {
+							"icons": "fbmessenger, instagram, youtube, facebook, tiktok"
+						},
+						"source": {
+							"id": "ext_digimax_25gb_media",
+							"name": "VSME"
+						}
+					}, {
+						"id": "data_vsme_ext_digimax_25gb_wp",
+						"name": {
+							"eng": "Application traffic",
+							"az": "Tətbiqlər üçün trafiki",
+							"ru": "Трафик для приложения"
+						},
+						"description": {
+							"eng": "Application traffic",
+							"az": "Tətbiqlər üçün trafiki",
+							"ru": "Трафик для приложения"
+						},
+						"network": "APP_TRAFFIC",
+						"value": {
+							"unit": "BYTE",
+							"remaining": 3221225472,
+							"usage": 0,
+							"unlimited": false,
+							"total": 3221225472
+						},
+						"properties": {
+							"lastRenewDate": "2025-08-21 11:21:07",
+							"quotaResetDate": "2025-09-18 11:21:07",
+							"subscriptionRecurrenceStatus": "ACTIVE",
+							"subscriptionId": "pre_c0a3c6ad-d064-4213-9578-dee3190f2549",
+							"recurrenceType": "MONTHLY",
+							"startDate": "2025-08-21 11:21:07",
+							"expirationDate": "2025-09-18 11:21:07"
+						},
+						"structs": {
+							"icons": "whatsapp"
+						},
+						"source": {
+							"id": "ext_digimax_25gb_wp",
+							"name": "VSME"
+						}
+					}]
+				},
+				"smsBalanceItems": {
+					"items": [{
+						"id": "sms_da_472",
+						"name": {
+							"eng": "Local SMS",
+							"az": "SMS Ölkədaxili ",
+							"ru": "SMS Внутри страны"
+						},
+						"description": {
+							"eng": "Local SMS",
+							"az": "SMS Ölkədaxili ",
+							"ru": "SMS Внутри страны"
+						},
+						"network": "ALLNET",
+						"value": {
+							"unit": "NUMBER",
+							"remaining": 500,
+							"usage": 0,
+							"unlimited": false,
+							"total": 500
+						},
+						"properties": {
+							"startDate": "2025-08-04 00:00:00",
+							"expirationDate": "2025-09-19 00:00:00"
+						},
+						"source": {
+							"id": "472",
+							"name": "DA"
+						}
+					}]
+				}
+			}
+		}, {
+			"id": "main_balance",
+			"type": "MAIN",
+			"name": {
+				"eng": "Main balance",
+				"az": "Əsas tarif balansi",
+				"ru": "Основной баланс"
+			},
+			"units": {
+				"monetaryBalanceItems": {
+					"items": [{
+						"id": "prepaid_main_balance",
+						"name": {
+							"eng": "Prepaid Main balance",
+							"az": "Əsas balans",
+							"ru": "Основной баланс"
+						},
+						"description": {
+							"eng": "Əsas balans",
+							"az": "Əsas balans",
+							"ru": "Əsas balans"
+						},
+						"network": "ALL",
+						"value": {
+							"unit": "AZN",
+							"remaining": 8.69,
+							"unlimited": false
+						},
+						"properties": {
+							"serviceFeeExpiryDate": "2025-10-13 00:00:00",
+							"creditClearanceDate": "2026-01-11 00:00:00"
+						},
+						"source": {
+							"id": "prepaid_main_balance",
+							"name": "MA"
+						}
+					}]
+				}
+			}
+		}]
+	}
+}
