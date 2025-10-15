@@ -1,0 +1,685 @@
+{
+  "core": {
+    "currentAmount": 378.3526,
+    "unbilledBalance": {
+      "currencyCode": {
+        "key": "200",
+        "displayValue": "Azerbaijani Manat"
+      },
+      "monetaryLimit": {
+        "limitValue": 482.0,
+        "tml": 103.6474,
+        "availableSpentAmount": 378.3526
+      },
+      "advancePaymentSummary": {
+        "advPayment": {
+          "amount": 22.0
+        },
+        "actualAdvPayment": {
+          "amount": 22.0
+        }
+      },
+      "usageChargesSummary": {
+        "unbilledUsageCharges": {
+          "amount": 0.0
+        },
+        "unbilledUsageTaxes": {
+          "amount": 0.0
+        },
+        "unbilledUsageAmtExclDiscounts": {
+          "amount": 0.0
+        },
+        "discAmtOnUnbilledUsg": {
+          "amount": 0.0
+        }
+      },
+      "recurringChargesSummary": {
+        "unbilledRCcharges": {
+          "amount": 103.6474
+        },
+        "unbilledRCTax": {
+          "amount": 15.810611
+        },
+        "discAmtOnUnbilledRc": {
+          "amount": 0.0
+        },
+        "unbilledRcExclDiscount": {
+          "amount": 103.6474
+        }
+      },
+      "nonRecurringChargesSummary": {
+        "unbilledNrcListPrice": {
+          "amount": 0.0
+        },
+        "unbilledNRCDebit": {
+          "amount": 0.0
+        },
+        "discAmtOnUnbilledNrcDebit": {
+          "amount": 0.0
+        },
+        "unbilledNrcTaxesDebit": {
+          "amount": 0.0
+        },
+        "unbilledNRCCredit": {
+          "amount": 0.0
+        },
+        "unbilledNrcTaxesCredit": {
+          "amount": 0.0
+        },
+        "unbilledNrcCharges": {
+          "amount": 0.0
+        }
+      },
+      "adjustmentsSummary": {
+        "adjAmtOnUsg": {
+          "amount": 0.0
+        },
+        "taxAmtOnUsgAdjustments": {
+          "amount": 0.0
+        }
+      },
+      "totalsSummary": {
+        "totalDiscountAmt": {
+          "amount": 0.0
+        },
+        "totalTaxAmount": {
+          "amount": 15.810611
+        },
+        "totalUnbilledChgAmt": {
+          "amount": 103.6474
+        }
+      }
+    }
+  },
+  "tariff": {
+    "primaryOffer": {
+      "offerId": 2000019618,
+      "offerInstanceId": "3652525:3",
+      "productInstId": 154067,
+      "offerName": "Supersen 3GB Plan",
+      "offerClass": "PRIMARY-OFFER",
+      "longDescription": "Supersen  3GB  Plan",
+      "retailPrice": {
+        "amount": 0,
+        "currency": "AZN"
+      },
+      "offerActivationDate": "2025-08-13T05:29:31Z",
+      "lastRenewDate": "2025-10-02T11:38:15Z",
+      "nextApplyDate": "2025-10-31T19:59:59Z",
+      "isCyclical": true,
+      "recurrencyStatus": "Aktiv",
+      "grants": [
+        {
+          "id": 100644394,
+          "initialAmount": 2972.7744,
+          "initialAmountUnitType": "Mbytes",
+          "currentAmount": 2.9,
+          "currentAmountUnitType": "Gbytes",
+          "consumedAmount": 0.0,
+          "consumedAmountUnitType": "Bytes",
+          "isUnlimited": false,
+          "usageType": "Data",
+          "destinations": [
+            "Main"
+          ],
+          "isSocial": false,
+          "isTexting": false,
+          "leftIcon": "Internet",
+          "uiName": "İnternet"
+        },
+        {
+          "id": 100644414,
+          "initialAmount": 990.9248,
+          "initialAmountUnitType": "Mbytes",
+          "currentAmount": 990.92,
+          "currentAmountUnitType": "Mbytes",
+          "consumedAmount": 0.0,
+          "consumedAmountUnitType": "Bytes",
+          "isUnlimited": false,
+          "usageType": "Data",
+          "destinations": [
+            "WhatsApp",
+            "Messenger"
+          ],
+          "isSocial": true,
+          "isTexting": false,
+          "leftIcon": "Internet",
+          "uiName": "Tətbiqin trafiki"
+        },
+        {
+          "id": 100646234,
+          "initialAmount": 17419.0,
+          "initialAmountUnitType": "Seconds",
+          "currentAmount": 290.0,
+          "currentAmountUnitType": "Minutes",
+          "consumedAmount": 0.0,
+          "consumedAmountUnitType": "Seconds",
+          "isUnlimited": false,
+          "usageType": "Voice",
+          "destinations": [
+            "Allnet"
+          ],
+          "isSocial": false,
+          "isTexting": false,
+          "leftIcon": "Call",
+          "uiName": "Ölkədaxili Zənglər"
+        }
+      ],
+      "isOptional": false,
+      "duration": "month",
+      "validityPeriod": "P1M",
+      "chargeAmountsData": [
+        {
+          "cycleType": "current",
+          "nextApplyDate": "2025-10-31T19:59:59Z",
+          "chargeAmount": {
+            "value": 9.6774,
+            "units": "AZN"
+          },
+          "chargePeriod": {
+            "startDateTime": "2025-10-02T11:38:15Z",
+            "endDateTime": "2025-10-31T19:59:59Z"
+          }
+        },
+        {
+          "cycleType": "future",
+          "nextApplyDate": "2025-11-30T19:59:59Z",
+          "chargeAmount": {
+            "value": 10.0,
+            "units": "AZN"
+          },
+          "chargePeriod": {
+            "startDateTime": "2025-10-31T20:00:00Z",
+            "endDateTime": "2025-11-30T19:59:59Z"
+          }
+        }
+      ],
+      "additionalProperties": {
+        "productOfferingType": "Mobile_Plan_Postpaid",
+        "productCustomAttributesMap": {
+          "vasAttributes": "voice,messaging,data,international",
+          "dataOnlyService": "false",
+          "eqosId": "401",
+          "pdpId": "1",
+          "ard": "0",
+          "profileId": "24",
+          "cellActRenewMessageId": "voice,messaging,data,international",
+          "paymentPolicy": "P",
+          "nam": "0",
+          "apn": "2",
+          "isProvisioningRequired": "true",
+          "typeOfService": "roaming",
+          "landingPage": {
+            "priority": "15",
+            "name": "page_internet_packages"
+          }
+        }
+      },
+      "status": {
+        "key": "1",
+        "displayValue": "Aktiv"
+      },
+      "bpoOfferId": 2000019620,
+      "prepaid": false,
+      "isBundle": true
+    }
+  },
+  "data": {
+    "offers": [
+      {
+        "offerId": 2000020375,
+        "offerInstanceId": "3802230:3",
+        "productInstId": 160292,
+        "offerName": "1.5GB",
+        "offerClass": "ADD-ON",
+        "longDescription": "24 saat",
+        "retailPrice": {
+          "amount": 0,
+          "currency": "AZN"
+        },
+        "offerActivationDate": "2025-09-23T07:38:27Z",
+        "lastRenewDate": "2025-10-14T11:38:15Z",
+        "nextApplyDate": "2025-10-15T11:38:14Z",
+        "isCyclical": true,
+        "recurrencyStatus": "Aktiv",
+        "grants": [
+          {
+            "id": 250274,
+            "initialAmount": 1536.0,
+            "initialAmountUnitType": "Mbytes",
+            "currentAmount": 1.5,
+            "currentAmountUnitType": "Gbytes",
+            "consumedAmount": 0.0,
+            "consumedAmountUnitType": "Bytes",
+            "isUnlimited": false,
+            "usageType": "Data",
+            "destinations": [
+              "Main"
+            ],
+            "isSocial": false,
+            "isTexting": false,
+            "leftIcon": "Internet",
+            "uiName": "İnternet"
+          }
+        ],
+        "isOptional": true,
+        "duration": "day",
+        "validityPeriod": "P1D",
+        "chargeAmountsData": [
+          {
+            "cycleType": "current",
+            "nextApplyDate": "2025-10-15T11:38:14Z",
+            "chargeAmount": {
+              "value": 1.99,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-10-14T11:38:15Z",
+              "endDateTime": "2025-10-15T11:38:14Z"
+            }
+          },
+          {
+            "cycleType": "future",
+            "nextApplyDate": "2025-10-16T11:38:14Z",
+            "chargeAmount": {
+              "value": 1.99,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-10-15T11:38:15Z",
+              "endDateTime": "2025-10-16T11:38:14Z"
+            }
+          }
+        ],
+        "additionalProperties": {
+          "productOfferingType": "Data_Add_On_Postpaid",
+          "productCustomAttributesMap": {
+            "paymentPolicy": "P",
+            "apn": "2",
+            "isProvisioningRequired": "true",
+            "typeOfService": "data",
+            "allowanceQuota": "250",
+            "landingPage": {
+              "priority": "10",
+              "name": "page_internet_package_reactivate"
+            }
+          }
+        }
+      },
+      {
+        "offerId": 2000019983,
+        "offerInstanceId": "3801634:3",
+        "productInstId": 160193,
+        "offerName": "TikTok 1 GB",
+        "offerClass": "ADD-ON",
+        "longDescription": "Hər saniyə yaddaqalan olsun",
+        "retailPrice": {
+          "amount": 0,
+          "currency": "AZN"
+        },
+        "offerActivationDate": "2025-09-22T14:28:22Z",
+        "activationDate": "2025-09-22T14:28:22Z",
+        "isCyclical": false,
+        "grants": [
+          {
+            "id": 1040684,
+            "initialAmount": 1024.0,
+            "initialAmountUnitType": "Mbytes",
+            "currentAmount": 1.0,
+            "currentAmountUnitType": "Gbytes",
+            "consumedAmount": 0.0,
+            "consumedAmountUnitType": "Bytes",
+            "isUnlimited": false,
+            "usageType": "Data",
+            "messengers": "TikTok",
+            "destinations": [
+              "TikTok"
+            ],
+            "isSocial": true,
+            "isTexting": false,
+            "leftIcon": "Internet",
+            "uiName": "Tətbiqin trafiki"
+          }
+        ],
+        "isOptional": true,
+        "duration": "day",
+        "validityPeriod": "P28D",
+        "earlyRenewal": false,
+        "additionalProperties": {
+          "productOfferingType": "Data_Add_On_Postpaid",
+          "productCustomAttributesMap": {
+            "paymentPolicy": "A",
+            "apn": "2",
+            "isProvisioningRequired": "true",
+            "typeOfService": "data",
+            "landingPage": {
+              "priority": "999",
+              "name": "page_internet_packages"
+            }
+          }
+        }
+      },
+      {
+        "offerId": 2000019980,
+        "offerInstanceId": "3798426:3",
+        "productInstId": 159545,
+        "offerName": "\"Təhsil\" 10GB",
+        "offerClass": "ADD-ON",
+        "longDescription": "Onlayn dərslərə rahatlıqda qoşul",
+        "retailPrice": {
+          "amount": 0,
+          "currency": "AZN"
+        },
+        "offerActivationDate": "2025-09-18T07:32:45Z",
+        "lastRenewDate": "2025-10-09T11:38:15Z",
+        "nextApplyDate": "2025-11-08T11:38:14Z",
+        "isCyclical": true,
+        "recurrencyStatus": "Aktiv",
+        "grants": [
+          {
+            "id": 1041054,
+            "initialAmount": 10240.0,
+            "initialAmountUnitType": "Mbytes",
+            "currentAmount": 10.0,
+            "currentAmountUnitType": "Gbytes",
+            "consumedAmount": 0.0,
+            "consumedAmountUnitType": "Bytes",
+            "isUnlimited": false,
+            "usageType": "Data",
+            "destinations": [
+              "MicrosoftTeams"
+            ],
+            "isSocial": true,
+            "isTexting": false,
+            "leftIcon": "Internet",
+            "uiName": "Tətbiqin trafiki"
+          }
+        ],
+        "isOptional": true,
+        "duration": "month",
+        "validityPeriod": "P1D",
+        "earlyRenewal": false,
+        "chargeAmountsData": [
+          {
+            "cycleType": "current",
+            "nextApplyDate": "2025-11-08T11:38:14Z",
+            "chargeAmount": {
+              "value": 0.7,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-10-09T11:38:15Z",
+              "endDateTime": "2025-11-08T11:38:14Z"
+            }
+          },
+          {
+            "cycleType": "future",
+            "nextApplyDate": "2025-12-08T11:38:14Z",
+            "chargeAmount": {
+              "value": 0.7,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-11-08T11:38:15Z",
+              "endDateTime": "2025-12-08T11:38:14Z"
+            }
+          }
+        ],
+        "additionalProperties": {
+          "productOfferingType": "Data_Add_On_Postpaid",
+          "productCustomAttributesMap": {
+            "paymentPolicy": "P",
+            "apn": "2",
+            "isProvisioningRequired": "false",
+            "typeOfService": "data",
+            "allowanceQuota": "10240",
+            "landingPage": {
+              "priority": "18",
+              "name": "page_internet_packages"
+            }
+          }
+        }
+      },
+      {
+        "offerId": 2000019921,
+        "offerInstanceId": "3794631:3",
+        "productInstId": 158815,
+        "offerName": "1000MB",
+        "offerClass": "ADD-ON",
+        "longDescription": "24 saat",
+        "retailPrice": {
+          "amount": 0,
+          "currency": "AZN"
+        },
+        "offerActivationDate": "2025-09-12T12:44:30Z",
+        "lastRenewDate": "2025-10-14T11:38:15Z",
+        "nextApplyDate": "2025-10-15T11:38:14Z",
+        "isCyclical": true,
+        "recurrencyStatus": "Aktiv",
+        "grants": [
+          {
+            "id": 1035824,
+            "initialAmount": 1000.0,
+            "initialAmountUnitType": "Mbytes",
+            "currentAmount": 1000.0,
+            "currentAmountUnitType": "Mbytes",
+            "consumedAmount": 0.0,
+            "consumedAmountUnitType": "Bytes",
+            "isUnlimited": false,
+            "usageType": "Data",
+            "destinations": [
+              "Main"
+            ],
+            "isSocial": false,
+            "isTexting": false,
+            "leftIcon": "Internet",
+            "uiName": "İnternet"
+          }
+        ],
+        "isOptional": true,
+        "duration": "day",
+        "validityPeriod": "P1D",
+        "chargeAmountsData": [
+          {
+            "cycleType": "current",
+            "nextApplyDate": "2025-10-15T11:38:14Z",
+            "chargeAmount": {
+              "value": 1.5,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-10-14T11:38:15Z",
+              "endDateTime": "2025-10-15T11:38:14Z"
+            }
+          },
+          {
+            "cycleType": "future",
+            "nextApplyDate": "2025-10-16T11:38:14Z",
+            "chargeAmount": {
+              "value": 1.5,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-10-15T11:38:15Z",
+              "endDateTime": "2025-10-16T11:38:14Z"
+            }
+          }
+        ],
+        "additionalProperties": {
+          "productOfferingType": "Data_Add_On_Postpaid",
+          "productCustomAttributesMap": {
+            "paymentPolicy": "P",
+            "apn": "2",
+            "isProvisioningRequired": "true",
+            "typeOfService": "data",
+            "allowanceQuota": "1000",
+            "landingPage": {
+              "priority": "10",
+              "name": "page_internet_package_reactivate"
+            }
+          }
+        }
+      },
+      {
+        "offerId": 2000019936,
+        "offerInstanceId": "3793836:3",
+        "productInstId": 158682,
+        "offerName": "500MB",
+        "offerClass": "ADD-ON",
+        "longDescription": "İrihəcmli",
+        "retailPrice": {
+          "amount": 0,
+          "currency": "AZN"
+        },
+        "offerActivationDate": "2025-09-11T12:06:02Z",
+        "lastRenewDate": "2025-10-11T12:06:02Z",
+        "nextApplyDate": "2025-11-10T12:06:01Z",
+        "isCyclical": true,
+        "recurrencyStatus": "Aktiv",
+        "grants": [
+          {
+            "id": 100651204,
+            "initialAmount": 500.0,
+            "initialAmountUnitType": "Mbytes",
+            "currentAmount": 500.0,
+            "currentAmountUnitType": "Mbytes",
+            "consumedAmount": 0.0,
+            "consumedAmountUnitType": "Bytes",
+            "isUnlimited": false,
+            "usageType": "Data",
+            "destinations": [
+              "Main"
+            ],
+            "isSocial": false,
+            "isTexting": false,
+            "leftIcon": "Internet",
+            "uiName": "İnternet"
+          }
+        ],
+        "isOptional": true,
+        "duration": "calendar_month",
+        "validityPeriod": "P1M",
+        "chargeAmountsData": [
+          {
+            "cycleType": "current",
+            "nextApplyDate": "2025-11-10T12:06:01Z",
+            "chargeAmount": {
+              "value": 4.0,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-10-11T12:06:02Z",
+              "endDateTime": "2025-11-10T12:06:01Z"
+            }
+          },
+          {
+            "cycleType": "future",
+            "nextApplyDate": "2025-12-10T12:06:01Z",
+            "chargeAmount": {
+              "value": 4.0,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-11-10T12:06:02Z",
+              "endDateTime": "2025-12-10T12:06:01Z"
+            }
+          }
+        ],
+        "additionalProperties": {
+          "productOfferingType": "Data_Add_On_Postpaid",
+          "productCustomAttributesMap": {
+            "paymentPolicy": "P",
+            "apn": "2",
+            "isProvisioningRequired": "false",
+            "typeOfService": "data",
+            "allowanceQuota": "500",
+            "landingPage": {
+              "priority": "10",
+              "name": "page_internet_package_reactivate"
+            }
+          }
+        }
+      },
+      {
+        "offerId": 2000019937,
+        "offerInstanceId": "3792440:3",
+        "productInstId": 158399,
+        "offerName": "55GB",
+        "offerClass": "ADD-ON",
+        "longDescription": "İrihəcmli",
+        "retailPrice": {
+          "amount": 0,
+          "currency": "AZN"
+        },
+        "offerActivationDate": "2025-09-09T11:17:06Z",
+        "lastRenewDate": "2025-10-09T11:17:06Z",
+        "nextApplyDate": "2025-11-08T11:17:05Z",
+        "isCyclical": true,
+        "recurrencyStatus": "Aktiv",
+        "grants": [
+          {
+            "id": 100651454,
+            "initialAmount": 56320.0,
+            "initialAmountUnitType": "Mbytes",
+            "currentAmount": 55.0,
+            "currentAmountUnitType": "Gbytes",
+            "consumedAmount": 0.0,
+            "consumedAmountUnitType": "Bytes",
+            "isUnlimited": false,
+            "usageType": "Data",
+            "destinations": [
+              "Main"
+            ],
+            "isSocial": false,
+            "isTexting": false,
+            "leftIcon": "Internet",
+            "uiName": "İnternet"
+          }
+        ],
+        "isOptional": true,
+        "duration": "calendar_month",
+        "validityPeriod": "P1M",
+        "chargeAmountsData": [
+          {
+            "cycleType": "current",
+            "nextApplyDate": "2025-11-08T11:17:05Z",
+            "chargeAmount": {
+              "value": 39.0,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-10-09T11:17:06Z",
+              "endDateTime": "2025-11-08T11:17:05Z"
+            }
+          },
+          {
+            "cycleType": "future",
+            "nextApplyDate": "2025-12-08T11:17:05Z",
+            "chargeAmount": {
+              "value": 39.0,
+              "units": "AZN"
+            },
+            "chargePeriod": {
+              "startDateTime": "2025-11-08T11:17:06Z",
+              "endDateTime": "2025-12-08T11:17:05Z"
+            }
+          }
+        ],
+        "additionalProperties": {
+          "productOfferingType": "Data_Add_On_Postpaid",
+          "productCustomAttributesMap": {
+            "paymentPolicy": "P",
+            "apn": "2",
+            "isProvisioningRequired": "false",
+            "typeOfService": "data",
+            "allowanceQuota": "56320",
+            "landingPage": {
+              "priority": "10",
+              "name": "page_internet_package_reactivate"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
