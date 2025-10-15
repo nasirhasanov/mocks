@@ -107,7 +107,7 @@
       "lastRenewDate": "2025-10-02T11:38:15Z",
       "nextApplyDate": "2025-10-31T19:59:59Z",
       "isCyclical": true,
-      "recurrencyStatus": "Aktiv",
+      "recurrencyStatus": "onHold",
       "grants": [
         {
           "id": 100644394,
