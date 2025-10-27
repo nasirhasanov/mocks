@@ -1,0 +1,50 @@
+{
+  "status": "OK",
+  "meta": {
+    "key": "success",
+    "message": "Successfully"
+  },
+  "data": {
+    "paymentHistory": [
+      {
+        "paymentDate": "2025-10-21T08:35:45.000+00:00",
+        "paymentAmount": 10,
+        "description": "Öncədən Ödəniş (Avans/Hesab ödənişi)",
+        "transactionId": "d47bebfc-117dfff-411ff-9dfec6dfdf2323-postman",
+        "paymentSource": "Rabita Bank"
+      },
+      {
+        "paymentDate": "2025-09-21T08:35:45.000+00:00",
+        "paymentAmount": 10,
+        "description": "Öncədən Ödəniş (Avans/Hesab ödənişi)",
+        "transactionId": "d47bebfc-117dfff-411ff-9dfec6dfdf2323-postman",
+        "paymentSource": "Rabita Bank"
+      },
+      {
+        "paymentDate": "2025-08-19T08:24:45.000+00:00",
+        "paymentAmount": 10,
+        "description": "Öncədən Ödəniş (Avans/Hesab ödənişi)",
+        "transactionId": "d47bebfc-117dfff-411ff-9dfec6dfdf2323-postman",
+        "paymentSource": "Rabita Bank"
+      },
+      {
+        "paymentDate": "2025-07-15T08:24:45.000+00:00",
+        "paymentAmount": 17,
+        "description": "Öncədən Ödəniş (Avans/Hesab ödənişi)",
+        "transactionId": "d47bebfc-117dfff-411ff-9dfec6dfdf2323-postman",
+        "paymentSource": "Rabita Bank"
+      },
+      {
+        "paymentDate": "2024-10-14T08:24:45.000+00:00",
+        "paymentAmount": 10,
+        "description": "Öncədən Ödəniş (Avans/Hesab ödənişi)",
+        "transactionId": "d47bebfc-117dfff-411ff-9dfec6dfdf2323-postman",
+        "paymentSource": "Rabita Bank"
+      }
+    ],
+    "totalCount": 5,
+    "totalAmount": 15452610.5,
+    "page": 1,
+    "limit": 10
+  }
+}
