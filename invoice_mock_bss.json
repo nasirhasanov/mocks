@@ -1,0 +1,64 @@
+{
+  "totalCount": 1,
+  "totalPage": 1,
+  "page": 1,
+  "limit": 10,
+  "invoices": [
+    {
+      "invoiceId": 7124564,
+      "invoiceResets": 0,
+      "openAmount": 13.75,
+      "invoiceTotalAmount": 18.17,
+      "billingDate": "2025-10-22T00:00:00+04:00",
+      "dueDate": "2025-10-23T00:00:00+04:00",
+      "invoiceDocumentDetails": [
+        {
+          "documentId": 501,
+          "formatType": "PDF"
+        }
+      ]
+    },
+        {
+      "invoiceId": 7124564,
+      "invoiceResets": 0,
+      "openAmount": 13.75,
+      "invoiceTotalAmount": 18.17,
+      "billingDate": "2025-10-22T00:00:00+04:00",
+      "dueDate": "2025-10-25T00:00:00+04:00",
+      "invoiceDocumentDetails": [
+        {
+          "documentId": 501,
+          "formatType": "PDF"
+        }
+      ]
+    },
+        {
+      "invoiceId": 7124564,
+      "invoiceResets": 0,
+      "openAmount": 13.75,
+      "invoiceTotalAmount": 18.17,
+      "billingDate": "2025-10-22T00:00:00+04:00",
+      "dueDate": "2025-10-25T00:00:00+04:00",
+      "invoiceDocumentDetails": [
+        {
+          "documentId": 501,
+          "formatType": "PDF"
+        }
+      ]
+    },
+        {
+      "invoiceId": 7124564,
+      "invoiceResets": 0,
+      "openAmount": 13.75,
+      "invoiceTotalAmount": 18.17,
+      "billingDate": "2025-10-22T00:00:00+04:00",
+      "dueDate": "2025-10-31T00:00:00+04:00",
+      "invoiceDocumentDetails": [
+        {
+          "documentId": 501,
+          "formatType": "PDF"
+        }
+      ]
+    }
+  ]
+}
