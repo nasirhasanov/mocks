@@ -11,7 +11,7 @@
     "isIstesen": false,
     "isPremium": false,
     "isFWA": false,
-    "canManageTariff": false,
+    "canManageTariff": true,
     "hasHotTariff": false,
     "canManageApps": false,
     "isFaqAvailable": false,
