@@ -1,0 +1,37 @@
+{
+  "status": "active",
+  "dataStatus": "ON",
+  "postpaidRoamingStatus": "OFF",
+  "secondLineStatus": "ON",
+  "cfBusyAnnouncementStatus": "ON",
+  "cfUnconditionalAnnouncementStatus": "ON",
+  "cfNotReachableAnnouncementStatus": "ON",
+  "cfNotReplyAnnouncementStatus": "ON",
+  "barIncomingSmsStatus": "OFF",
+  "barOutgoingSmsStatus": "OFF",
+  "threeGStatus": "ON",
+  "fourGStatus": "ON",
+  "internationalLine": "ON_SUSPENDED",
+  "voLTE": "OFF",
+  "cfBusyStatus": {
+    "status": "OFF"
+  },
+  "cfUnconditionalStatus": {
+    "status": "OFF"
+  },
+  "cfNotReachableStatus": {
+    "status": "OFF"
+  },
+  "cfNotReplyStatus": {
+    "status": "OFF"
+  },
+  "callBarringPasswordStatus": {
+    "status": "OFF",
+    "parameter": "0000"
+  },
+  "barringAll": "OFF",
+  "barringAllIncomingCalls": "OFF",
+  "barringAllOutgoingCalls": "OFF",
+  "barringAllOutgoingInternationalCalls": "OFF",
+  "persistentlyDisableGprs": "OFF"
+}
