@@ -10868,9 +10868,9 @@
       },
       "telco_guest_login":{
          "id":"telco_guest_login",
-         "az":"Qonaq olaraq davam et",
-         "ru":"Продолжить как гость",
-         "en":"Continue as a guest"
+         "az":"Kamran olaraq davam et",
+         "ru":"Продолжить как Kamran",
+         "en":"Continue as a Kamran"
       },
       "fintech_loan_borrowing_failed_message":{
          "id":"fintech_loan_borrowing_failed_message",
