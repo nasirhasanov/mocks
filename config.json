@@ -33,7 +33,7 @@
          "RESTRICTED_SERVICE_IDS":"64, 65, -48",
          "MFS_VISIBILITY":"0",
          "GLEAP_ENABLED":"true",
-         "TRANSLATION_VERSION":"856",
+         "TRANSLATION_VERSION":"857",
          "CDN_BASE_URL_ICON":"https://cdn.azercell.com/kabinetim/commons/icons/${icon}.svg",
          "SMART_RATING_ACTION_DURATION":"5",
          "PREPAID_PREMIUM_TARIFFS":"137, 138, 139, 208, 209",
