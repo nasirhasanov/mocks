@@ -70,7 +70,7 @@
          "POSTPAID_PREMIUM_TARIFFS":"329, 330, 331,332, 333, 334, 47, 50, 37, 40, 301, 302",
          "MSISDN_REGEX":"^((10|99|50|55|70|51|77)[0-9]{7})+$",
          "ASAN_IMZA_ENABLED":"true",
-         "LOCALIZATION_VERSION":"759",
+         "LOCALIZATION_VERSION":"760",
          "DATA_CARD_TARIFFS":"65,53",
          "APP_ANIMATION_STYLE":"Animated",
          "APP_VERSION_IOS":"1072",
